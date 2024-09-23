@@ -18,8 +18,10 @@ To run these notebooks, we'll be using Google Colab. Follow these steps to get s
 1. Make sure you have a Google account.
 2. Go to [Google Colab](https://colab.research.google.com/).
 3. Click on "File" in the top menu, then select "Open notebook".
-4. In the "GitHub" tab, enter the URL of this repository.
+4. In the "GitHub" tab, enter the URL of this repository (https://github.com/cyware-labs/fincyber-uk-hands-on-material).
 5. Select the notebook you want to run from the list.
+6. Select open notebook
+7. Now a new tab with the notebook will open in a separate tab which you can view, edit and run!
 
 ## Requirements
 
